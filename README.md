@@ -26,6 +26,4 @@ All required dependencies are listed in `requirements.txt`. Key dependencies inc
 
 - **TensorFlow**: For building and training machine learning models.  
 - **Matplotlib**: For data visualization.
-- **Pandas**: For data manipulation and analysis.  
-- **scikit-learn**: For preprocessing and evaluation metrics.  
 ---
