@@ -5,7 +5,7 @@ To set up the project locally, follow these steps:
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/CC-Bangkit-C242-PS153/ML-TEAM-NONTABULAR-CAPSTONE.git
-cd ML-TEAM-TABULAR-CAPSTONE
+cd ML-TEAM-NONTABULAR-CAPSTONE
 ```
 
 ### 2. Set Up a Virtual Environment  
